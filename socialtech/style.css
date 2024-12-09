@@ -167,3 +167,10 @@ header {
     position: relative;
     bottom: -42px;
 }
+/*about us*/
+#aboutus {
+    margin: 80px auto;
+}
+#aboutus > div {
+    display: flex;
+}
