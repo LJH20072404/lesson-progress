@@ -174,3 +174,35 @@ header {
 #aboutus > div {
     display: flex;
 }
+.culture-img {
+    width: 50%;
+    align-self: flex-start;
+}
+.culture-img2 {
+    margin-top: 50px;
+    width: 100%;
+}
+.culture-table {
+    margin-right: 50px;
+}
+.culture-num {
+    font-size: 80px;
+    color: #2710d5;
+    padding: 0 20px 0 0;
+}
+.culture-table th {
+    text-align: left;
+    font-size: 28px;
+    font-weight: bold;
+}
+.culture-en {
+    color: #2710d5;
+    font-size: 24px;
+}
+.culture-description {
+    margin: 0;
+}
+#aboutus h2::after {
+    content: url(images/line.png);
+    margin-left: 10px;
+}
